@@ -1,0 +1,38 @@
+D:\QLSV\Day01\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\QLSV\Day01\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\QLSV\Day01\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\QLSV\Day01\QLSV\QLSV\obj\Debug\QLSV.csprojAssemblyReference.cache
+D:\QLSV\Day01\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\QLSV\Day01\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\QLSV\Day01\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\QLSV\Day01\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\QLSV\Day01\QLSV\QLSV\obj\Debug\QLSV.Login_Form.resources
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\obj\Debug\QLSV.csprojAssemblyReference.cache
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\obj\Debug\QLSV.AddStudentForm.resources
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\obj\Debug\QLSV.Login_Form.resources
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\obj\Debug\QLSV.MainForm01.resources
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\Coding\Windows Programming\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\Coding\Windows Programming\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\Coding\Windows Programming\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\Coding\Windows Programming\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\Coding\Windows Programming\QLSV\QLSV\obj\Debug\QLSV.csproj.SuggestedBindingRedirects.cache
+D:\Coding\Windows Programming\QLSV\QLSV\obj\Debug\QLSV.AddStudentForm.resources
+D:\Coding\Windows Programming\QLSV\QLSV\obj\Debug\QLSV.Login_Form.resources
+D:\Coding\Windows Programming\QLSV\QLSV\obj\Debug\QLSV.MainForm01.resources
+D:\Coding\Windows Programming\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\Coding\Windows Programming\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\Coding\Windows Programming\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\Coding\Windows Programming\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\Coding\Windows Programming\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\Coding\Windows Programming\QLSV\QLSV\obj\Debug\QLSV.Showstudentlist.resources
+D:\Coding\Windows Programming\QLSV\QLSV\obj\Debug\QLSV.UpdateDeleteStudentForm.resources
+D:\Coding\Windows Programming\QLSV\QLSV\bin\Debug\dje\QLSV.resources.dll
+D:\Coding\Windows Programming\QLSV\QLSV\obj\Debug\QLSV.Showstudentlist.dje.resources
+D:\Coding\Windows Programming\QLSV\QLSV\obj\Debug\dje\QLSV.resources.dll
