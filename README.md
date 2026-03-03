@@ -70,7 +70,7 @@ The application focuses on role-based interaction within an educational environm
 
 1. Clone this repository:
 
-   git clone https://github.com/your-username/your-repo.git
+   git clone [ https://github.com/your-username/your-repo.git](https://github.com/sang-ute/Windows-Programming/)
 
 2. Open the `.sln` file using **Visual Studio**.
 
